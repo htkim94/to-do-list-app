@@ -1,0 +1,14 @@
+.to-do {
+  width: 90%;
+  background: linear-gradient(
+    90deg,
+    rgba(20, 159, 255, 1) 0%,
+    rgba(17, 122, 255, 1) 100%
+  );
+  display: flex;
+  
+}
+
+.scratch > .description {
+  text-decoration: line-through;
+}
